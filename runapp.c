@@ -10,7 +10,6 @@ void runApp() {
     initFlights();
 
     printf("simple airline project\n");
-
     while (1) {
         printf("\n1.show\n2.book\n3.cancel\n4.details\n5.exit\n");
         printf("choice: ");
