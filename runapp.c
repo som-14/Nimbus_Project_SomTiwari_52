@@ -6,8 +6,7 @@
 
 void runApp() {
     int ch;
-
-    initFlights();
+  initFlights();
 
     printf("simple airline project\n");
     while (1) {
