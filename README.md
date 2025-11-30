@@ -18,6 +18,13 @@ A simple C programming project where users can book flights, cancel bookings, an
 - Member 4 (shubhisingh125-collab)
 
 ---
+To run the project:
+
+- Open terminal
+- Go to the project folder
+- Type: gcc main.c flight.c booking.c info.c -o airline
+- Then run: ./airline  or  airline.exe
+
 
 
 
