@@ -1,7 +1,7 @@
-#include <stdio.h>
+    #include <stdio.h>
 #include <string.h>
 #include "flight.h"
-//Made by som tiwari ji
+
 struct flight fl[MAX_FLIGHTS];
 
 void initFlights() {
